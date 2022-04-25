@@ -20,7 +20,7 @@ This folder contains the sketches of sensors and actuators.
 
 **Sensors** selection for three symptoms of dementia is shown below. 
 
-<img src="https://github.com/wxy12151/ELEC0130_21-22_Internet-of-Things-/blob/main/Phase%20II/images/README_images/sensor_selection.png" width="400" height="400" alt="IoT Stack"/><br/>
+<img src="https://github.com/wxy12151/ELEC0130_21-22_Internet-of-Things-/blob/main/Phase%20II/images/README_images/sensor_selection.png" height="400" alt="IoT Stack"/><br/>
 
 **Actuators** contain the LED light, buzzer and LCD screen.
 
