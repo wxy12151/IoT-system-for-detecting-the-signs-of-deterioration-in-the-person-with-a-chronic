@@ -8,7 +8,7 @@ Thus, it is critical to develop a variety of automated systems that can assist i
 
 The IoT stack is shown below:
 
-![avatar](Phase II/images/README_images/iot_stack.png)
+![image](https://github.com/wxy12151/ELEC0130_21-22_Internet-of-Things-/blob/main/Phase%20II/images/README_images/IoT_stack.png)![avatar](Phase II/images/README_images/iot_stack.png)
 
 
 
