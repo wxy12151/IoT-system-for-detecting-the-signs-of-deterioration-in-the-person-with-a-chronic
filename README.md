@@ -1,5 +1,3 @@
-# ELEC0130_21-22_Internet-of-Things-
-
 # 1. Brief introduction
 
 As the population ages, a rising number of elderly are plagued by a variety of age-related disorders. For example, dementia is one of the most prevalent diseases among the elderly, affecting more than 50 million people globally and anticipated to quadruple in prevalence by 2050. In such a situation, it is not only expensive for medical care-delivery systems, but also cumbersome and time-consuming for patients to receive treatment in the conventional manner. 
